@@ -178,7 +178,7 @@ h3 {
     padding-top: 5%;
     padding-bottom: 5%;
 }
-#contact {
+#contacts {
     padding-top: 5%;
     padding-bottom: 5%;
     background-color: #17182f;
@@ -220,4 +220,36 @@ h3 {
 .svgcolor-light {
     color: #17182f;
     background-color: #17182f;
+}
+.contactInfo {
+    font-family: "Raleway";
+    color: white;
+    margin-top: 2%;
+}
+.contact {
+    padding-bottom: 4%;
+}
+p {
+    font-family: "Raleway";
+}
+.fa-mobile {
+    color: whitesmoke;
+}
+.fa-github {
+    color: #F5511E
+}
+.fa-linkedin {
+    color: #007BB7;
+}
+.fa-envelope {
+    color: #FECD42;
+}
+#footer {
+    background-color: #15162b;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    color: #8f9aa7;
+}
+#footerText {
+    opacity: 0.5;
 }
