@@ -20,7 +20,6 @@ body:focus {
 canvas {
     display: block;
     min-height: 100vh;
-    min-width: 100vw;
     max-height: 100vh;
     max-width: 100vw;
     z-index: 1;
